@@ -1,17 +1,38 @@
 [
     {
-        "key": "tesa",
-        "name": "Tesa",
-        "slug": "tesa",
-        "productCategory": "Tesa",
-        "localThumb": "/assets/images/hersteller/tesa.webp"
+        "key": "snowmaster",
+        "name": "Snowmaster",
+        "slug": "snowmaster",
+        "productCategory": "Snowmaster",
+        "localThumb": "/assets/images/hersteller/snowmaster.webp"
     },
     {
-        "key": "cocoon",
-        "name": "Cocoon",
-        "slug": "cocoon",
-        "productCategory": "Cocoon",
-        "localThumb": "/assets/images/hersteller/cocoon.webp"
+        "key": "sonneck",
+        "name": "Sonneck",
+        "slug": "sonneck",
+        "productCategory": "Sonneck",
+        "localThumb": "/assets/images/hersteller/sonneck.webp"
+    },
+    {
+        "key": "khw",
+        "name": "KHW",
+        "slug": "khw",
+        "productCategory": "KHW",
+        "localThumb": "/assets/images/hersteller/khw.webp"
+    },
+    {
+        "key": "ress",
+        "name": "Ress",
+        "slug": "ress",
+        "productCategory": "Ress",
+        "localThumb": "/assets/images/hersteller/ress.webp"
+    },
+    {
+        "key": "johann offner",
+        "name": "Johann Offner",
+        "slug": "johann-offner",
+        "productCategory": "Johann Offner",
+        "localThumb": "/assets/images/hersteller/johann-offner.webp"
     },
     {
         "key": "sonstige",
@@ -21,66 +42,31 @@
         "localThumb": "/assets/images/hersteller/sonstige.webp"
     },
     {
-        "key": "gardinia",
-        "name": "Gardinia",
-        "slug": "gardinia",
-        "productCategory": "Gardinia",
-        "localThumb": "/assets/images/hersteller/gardinia.webp"
+        "key": "fiskars",
+        "name": "Fiskars",
+        "slug": "fiskars",
+        "productCategory": "Fiskars",
+        "localThumb": "/assets/images/hersteller/fiskars.webp"
     },
     {
-        "key": "obi",
-        "name": "OBI",
-        "slug": "obi",
-        "productCategory": "OBI",
-        "localThumb": "/assets/images/hersteller/obi.webp"
+        "key": "wolf garten",
+        "name": "Wolf Garten",
+        "slug": "wolf-garten",
+        "productCategory": "Wolf Garten",
+        "localThumb": "/assets/images/hersteller/wolf-garten.webp"
     },
     {
-        "key": "moondream",
-        "name": "Moondream",
-        "slug": "moondream",
-        "productCategory": "Moondream",
-        "localThumb": "/assets/images/hersteller/moondream.webp"
+        "key": "gardena",
+        "name": "Gardena",
+        "slug": "gardena",
+        "productCategory": "Gardena",
+        "localThumb": "/assets/images/hersteller/gardena.webp"
     },
     {
-        "key": "mydeco",
-        "name": "mydeco",
-        "slug": "mydeco",
-        "productCategory": "mydeco",
-        "localThumb": "/assets/images/hersteller/mydeco.webp"
-    },
-    {
-        "key": "thermacell",
-        "name": "Thermacell",
-        "slug": "thermacell",
-        "productCategory": "Thermacell",
-        "localThumb": "/assets/images/hersteller/thermacell.webp"
-    },
-    {
-        "key": "cmi",
-        "name": "CMI",
-        "slug": "cmi",
-        "productCategory": "CMI",
-        "localThumb": "/assets/images/hersteller/cmi.webp"
-    },
-    {
-        "key": "guttagliss",
-        "name": "guttagliss",
-        "slug": "guttagliss",
-        "productCategory": "guttagliss",
-        "localThumb": "/assets/images/hersteller/guttagliss.webp"
-    },
-    {
-        "key": "windhager",
-        "name": "Windhager",
-        "slug": "windhager",
-        "productCategory": "Windhager",
-        "localThumb": "/assets/images/hersteller/windhager.webp"
-    },
-    {
-        "key": "velux",
-        "name": "Velux",
-        "slug": "velux",
-        "productCategory": "Velux",
-        "localThumb": "/assets/images/hersteller/velux.webp"
+        "key": "südwestdeutsche salzwerke",
+        "name": "Südwestdeutsche Salzwerke",
+        "slug": "suedwestdeutsche-salzwerke",
+        "productCategory": "Südwestdeutsche Salzwerke",
+        "localThumb": "/assets/images/hersteller/suedwestdeutsche-salzwerke.webp"
     }
 ]
