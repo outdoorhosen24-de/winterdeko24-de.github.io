@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/marken/wolf-garten", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/wolf-garten-multi-star-aluminium-d-griff-zm-ad-120-wolf-garten-7958309-1.jpg":"\u002Fassets\u002Fimages\u002Fwolf-garten-multi-star-aluminium-d-griff-zm-ad-120-wolf-garten-7958309-1.webp"}}],fetch:{},mutations:void 0});
