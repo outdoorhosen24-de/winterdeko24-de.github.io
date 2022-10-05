@@ -1,12 +1,12 @@
 {
-    "configIsReady": false,
-    "domain": "wassersport24.net",
-    "hostname": "https://wassersport24.net/",
-    "email": "wassersport24.net@surrealnetworks.io",
-    "organization": "wassersport24.net",
-    "logoText": "Wassersport24.net",
-    "title": "title",
-    "subline": "subline",
+    "configIsReady": true,
+    "domain": "winterdeko24.de",
+    "hostname": "https://www.winterdeko24.de/",
+    "email": "winterdeko24.desurrealnetworks.io",
+    "organization": "winterdeko24.de",
+    "logoText": "Winterdeko24.de",
+    "title": "Winterartikel",
+    "subline": "Der Online Shop f\u00fcr Winterartikel",
     "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
     "imageFolder": "/assets/images/images/",
     "productUrl": "/produkt/",
@@ -14,9 +14,27 @@
     "numberOfProductsOnStartpage": 18,
     "numberMaximumProductsPerCategory": 100,
     "numberOfRelevantProduct": 12,
-    "popularProducts": [],
-    "winnerProducts": [],
-    "featuredCategories": [],
+    "popularProducts": [
+        "7368269",
+        "1370808",
+        "8720534",
+        "7368251",
+        "7368269",
+        "7368285"
+    ],
+    "winnerProducts": [
+        "1224500",
+        "1224609",
+        "7368244"
+    ],
+    "featuredCategories": [
+        "Schneeschieber",
+        "Schlitten & Zubeh\u00f6r",
+        "Schneeschieber",
+        "Schneeschieber",
+        "Schlitten & Zubeh\u00f6r",
+        "Schlitten & Zubeh\u00f6r"
+    ],
     "socialMediaAccounts": [],
     "imageQuality": 90,
     "checklist": [
@@ -28,37 +46,33 @@
     "seo": {
         "htmlLang": "de",
         "mainKeyword": "Winterartikel",
-        "featureText": "Your featured text goes here",
+        "featureText": "In unserem Shop finden Sie alles, was Sie f\u00fcr einen perfekten Winter brauchen! Von M\u00fctzen und Schals \u00fcber Handschuhe und Stiefel bis hin zu Jacken und Hosen \u2013 wir haben alles, was Sie f\u00fcr eine tolle Winterzeit ben\u00f6tigen.",
         "index": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex",
+            "title": "Winterartikel: Die besten Shops f\u00fcr deine Suche",
+            "metaDescription": "Im Shop findest du alles, was du f\u00fcr einen perfekten Winter brauchst! Winterartikel zu g\u00fcnstigen Preisen.",
+            "robots": "index, follow",
             "texts": [
                 {
-                    "title": "Title of a SEO Text",
-                    "text": "Text of a SEO Text"
-                },
-                {
-                    "title": "New title",
-                    "text": "new text"
+                    "title": "Winterartikel: Kleidung, Schuhe und Accessoires f\u00fcr kalte Tage",
+                    "text": "Die meisten Menschen lieben den Winter, weil er so viele tolle Dinge mit sich bringt. Es gibt so viele verschiedene Arten von Winterartikeln, die man kaufen kann, um sich warm zu halten und den Winter zu genie\u00dfen. Zum Beispiel gibt es M\u00fctzen, Schals, Handschuhe, Jacken, Hosen und Stiefel. All diese Kleidungsst\u00fccke sind sehr n\u00fctzlich, wenn man im Winter drau\u00dfen ist. Sie helfen dabei, die K\u00e4lte abzuwehren und die K\u00f6rperw\u00e4rme zu erhalten.\n\nEine weitere gro\u00dfartige Sache \u00fcber Winterartikel ist, dass es so viele verschiedene Arten und Stile gibt. Man kann sich f\u00fcr einen sportlichen oder eleganten Look entscheiden. Es gibt auch viele verschiedene Farben und Muster, aus denen man w\u00e4hlen kann. So kann man seinen eigenen pers\u00f6nlichen Stil finden und den Winter in vollen Z\u00fcgen genie\u00dfen.\n\n Winterartikel sind auch eine gro\u00dfartige Geschenkidee. Viele Menschen lieben es, im Winter Geschenke zu bekommen, die sie bei ihren Aktivit\u00e4ten drau\u00dfen warm halten. Es gibt so viele verschiedene Arten von Winterartikeln, dass es f\u00fcr jeden etwas gibt. So kann man seinen Freunden und Familie eine gro\u00dfe Freude bereiten und ihnen zeigen, dass man an sie denkt.\n\n Winterartikel sind eine gro\u00dfartige M\u00f6glichkeit, sich selbst oder anderen eine Freude zu bereiten. Es gibt so viele verschiedene Arten und Stile, dass man sich sicher ist, dass"
                 }
             ]
         },
         "shop": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex"
+            "title": "Winterartikel-Shop",
+            "metaDescription": "Im Shop findest du alles, was du f\u00fcr einen perfekten Winter brauchst!",
+            "robots": "index, follow"
         },
         "hersteller": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex"
+            "title": "Winterartikel-Hersteller",
+            "metaDescription": "Hersteller von Winterartikeln. Wir bieten eine gro\u00dfe Auswahl an hochwertigen Winterprodukten f\u00fcr jeden Bedarf.",
+            "robots": "index, follow"
         }
     },
     "productSeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultTitle": "Winterartikel: $PRODUKT f\u00fcr kalte Tage",
+        "defaultMetaDescription": "$PRODUKT von $HERSTELLER ist ein $KATEGORIE f\u00fcr den Winter.",
+        "defaultRobots": "index, follow",
         "products": [
             {
                 "sku": "5637909794",
@@ -72,9 +86,9 @@
         ]
     },
     "categorySeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultTitle": "Winterartikel f\u00fcr $KATEGORIE",
+        "defaultMetaDescription": "Winterartikel f\u00fcr die kalte Jahreszeit: Jacken, M\u00e4ntel, Pullover, Schals & M\u00fctzen. Jetzt st\u00f6bern und tolle $KATEGORIE finden!",
+        "defaultRobots": "index, follow",
         "categories": [
             {
                 "key": "sporthosen",
@@ -100,8 +114,8 @@
     },
     "brandSeo": {
         "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultMetaDescription": "$HERSTELLER ist Ihr Ansprechpartner f\u00fcr Winterartikel aller Art. Wir bieten Ihnen eine gro\u00dfe Auswahl an hochwertigen Produkten zu fairen Preisen.",
+        "defaultRobots": "index, follow",
         "brands": [
             {
                 "key": "palm",
@@ -118,26 +132,30 @@
         {
             "title": "Start",
             "linkTo": "/",
-            "linkTitle": "Wassersport",
+            "linkTitle": "Winterartikel",
             "publish": true
         },
         {
             "title": "Shop",
             "linkTo": "/shop/",
-            "linkTitle": "Wassersport Shop",
+            "linkTitle": "Winterartikel Shop",
             "publish": true
         },
         {
             "title": "Marken",
             "linkTo": "/marken/",
-            "linkTitle": "Wassersport Marken",
+            "linkTitle": "Winterartikel Marken",
             "publish": true
         },
         {
             "title": "Kontakt",
             "linkTo": "/kontakt/",
-            "linkTitle": "Wassersport Kontakt",
+            "linkTitle": "Kontakt",
             "publish": false
         }
-    ]
+    ],
+    "ai": {
+        "enabled": true,
+        "engine": 1
+    }
 }
