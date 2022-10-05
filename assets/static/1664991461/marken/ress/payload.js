@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/marken/ress", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/ress-rodelschlitten-davoser-art-100-cm-ress-2937118-1.jpg":"\u002Fassets\u002Fimages\u002Fress-rodelschlitten-davoser-art-100-cm-ress-2937118-1.webp"}}],fetch:{},mutations:void 0});
