@@ -1,12 +1,12 @@
 {
-    "configIsReady": true,
+    "configIsReady": false,
     "domain": "winterdeko24.de",
     "hostname": "https://www.winterdeko24.de/",
     "email": "winterdeko24.desurrealnetworks.io",
     "organization": "winterdeko24.de",
     "logoText": "Winterdeko24.de",
     "title": "Winterartikel",
-    "subline": "Der Online Shop f\u00fcr Winterartikel",
+    "subline": "Der Online Shop für Winterartikel",
     "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
     "imageFolder": "/assets/images/images/",
     "productUrl": "/produkt/",
@@ -29,11 +29,11 @@
     ],
     "featuredCategories": [
         "Schneeschieber",
-        "Schlitten & Zubeh\u00f6r",
+        "Schlitten & Zubehör",
         "Schneeschieber",
         "Schneeschieber",
-        "Schlitten & Zubeh\u00f6r",
-        "Schlitten & Zubeh\u00f6r"
+        "Schlitten & Zubehör",
+        "Schlitten & Zubehör"
     ],
     "socialMediaAccounts": [],
     "imageQuality": 90,
@@ -46,48 +46,48 @@
     "seo": {
         "htmlLang": "de",
         "mainKeyword": "Winterartikel",
-        "featureText": "In unserem Shop finden Sie alles, was Sie f\u00fcr einen perfekten Winter brauchen! Von M\u00fctzen und Schals \u00fcber Handschuhe und Stiefel bis hin zu Jacken und Hosen \u2013 wir haben alles, was Sie f\u00fcr eine tolle Winterzeit ben\u00f6tigen.",
+        "featureText": "In unserem Shop finden Sie alles, was Sie für einen perfekten Winter brauchen! Von Mützen und Schals über Handschuhe und Stiefel bis hin zu Jacken und Hosen – wir haben alles, was Sie für eine tolle Winterzeit benötigen.",
         "index": {
-            "title": "Winterartikel: Die besten Shops f\u00fcr deine Suche",
-            "metaDescription": "Im Shop findest du alles, was du f\u00fcr einen perfekten Winter brauchst! Winterartikel zu g\u00fcnstigen Preisen.",
+            "title": "Winterartikel: Die besten Shops für deine Suche",
+            "metaDescription": "Im Shop findest du alles, was du für einen perfekten Winter brauchst! Winterartikel zu günstigen Preisen.",
             "robots": "index, follow",
             "texts": [
                 {
-                    "title": "Winterartikel: Kleidung, Schuhe und Accessoires f\u00fcr kalte Tage",
-                    "text": "Die meisten Menschen lieben den Winter, weil er so viele tolle Dinge mit sich bringt. Es gibt so viele verschiedene Arten von Winterartikeln, die man kaufen kann, um sich warm zu halten und den Winter zu genie\u00dfen. Zum Beispiel gibt es M\u00fctzen, Schals, Handschuhe, Jacken, Hosen und Stiefel. All diese Kleidungsst\u00fccke sind sehr n\u00fctzlich, wenn man im Winter drau\u00dfen ist. Sie helfen dabei, die K\u00e4lte abzuwehren und die K\u00f6rperw\u00e4rme zu erhalten.\n\nEine weitere gro\u00dfartige Sache \u00fcber Winterartikel ist, dass es so viele verschiedene Arten und Stile gibt. Man kann sich f\u00fcr einen sportlichen oder eleganten Look entscheiden. Es gibt auch viele verschiedene Farben und Muster, aus denen man w\u00e4hlen kann. So kann man seinen eigenen pers\u00f6nlichen Stil finden und den Winter in vollen Z\u00fcgen genie\u00dfen.\n\n Winterartikel sind auch eine gro\u00dfartige Geschenkidee. Viele Menschen lieben es, im Winter Geschenke zu bekommen, die sie bei ihren Aktivit\u00e4ten drau\u00dfen warm halten. Es gibt so viele verschiedene Arten von Winterartikeln, dass es f\u00fcr jeden etwas gibt. So kann man seinen Freunden und Familie eine gro\u00dfe Freude bereiten und ihnen zeigen, dass man an sie denkt.\n\n Winterartikel sind eine gro\u00dfartige M\u00f6glichkeit, sich selbst oder anderen eine Freude zu bereiten. Es gibt so viele verschiedene Arten und Stile, dass man sich sicher ist, dass"
+                    "title": "Winterartikel: Kleidung, Schuhe und Accessoires für kalte Tage",
+                    "text": "Die meisten Menschen lieben den Winter, weil er so viele tolle Dinge mit sich bringt. Es gibt so viele verschiedene Arten von Winterartikeln, die man kaufen kann, um sich warm zu halten und den Winter zu genießen. Zum Beispiel gibt es Mützen, Schals, Handschuhe, Jacken, Hosen und Stiefel. All diese Kleidungsstücke sind sehr nützlich, wenn man im Winter draußen ist. Sie helfen dabei, die Kälte abzuwehren und die Körperwärme zu erhalten.\n\nEine weitere großartige Sache über Winterartikel ist, dass es so viele verschiedene Arten und Stile gibt. Man kann sich für einen sportlichen oder eleganten Look entscheiden. Es gibt auch viele verschiedene Farben und Muster, aus denen man wählen kann. So kann man seinen eigenen persönlichen Stil finden und den Winter in vollen Zügen genießen.\n\n Winterartikel sind auch eine großartige Geschenkidee. Viele Menschen lieben es, im Winter Geschenke zu bekommen, die sie bei ihren Aktivitäten draußen warm halten. Es gibt so viele verschiedene Arten von Winterartikeln, dass es für jeden etwas gibt. So kann man seinen Freunden und Familie eine große Freude bereiten und ihnen zeigen, dass man an sie denkt.\n\n Winterartikel sind eine großartige Möglichkeit, sich selbst oder anderen eine Freude zu bereiten. Es gibt so viele verschiedene Arten und Stile, dass man sich sicher ist, dass"
                 }
             ]
         },
         "shop": {
             "title": "Winterartikel-Shop",
-            "metaDescription": "Im Shop findest du alles, was du f\u00fcr einen perfekten Winter brauchst!",
+            "metaDescription": "Im Shop findest du alles, was du für einen perfekten Winter brauchst!",
             "robots": "index, follow"
         },
         "hersteller": {
             "title": "Winterartikel-Hersteller",
-            "metaDescription": "Hersteller von Winterartikeln. Wir bieten eine gro\u00dfe Auswahl an hochwertigen Winterprodukten f\u00fcr jeden Bedarf.",
+            "metaDescription": "Hersteller von Winterartikeln. Wir bieten eine große Auswahl an hochwertigen Winterprodukten für jeden Bedarf.",
             "robots": "index, follow"
         }
     },
     "productSeo": {
-        "defaultTitle": "Winterartikel: $PRODUKT f\u00fcr kalte Tage",
-        "defaultMetaDescription": "$PRODUKT von $HERSTELLER ist ein $KATEGORIE f\u00fcr den Winter.",
+        "defaultTitle": "Winterartikel: $PRODUKT für kalte Tage",
+        "defaultMetaDescription": "$PRODUKT von $HERSTELLER ist ein $KATEGORIE für den Winter.",
         "defaultRobots": "index, follow",
         "products": [
             {
                 "sku": "5637909794",
                 "name": "Ortovox PALA PANTS Kletterhose",
                 "seo": {
-                    "title": "Ortovox PALA PANTS Kletterhose g\u00fcnstig kaufen auf $DOMAIN",
-                    "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox g\u00fcnstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
+                    "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
+                    "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
                     "robots": "index, follow"
                 }
             }
         ]
     },
     "categorySeo": {
-        "defaultTitle": "Winterartikel f\u00fcr $KATEGORIE",
-        "defaultMetaDescription": "Winterartikel f\u00fcr die kalte Jahreszeit: Jacken, M\u00e4ntel, Pullover, Schals & M\u00fctzen. Jetzt st\u00f6bern und tolle $KATEGORIE finden!",
+        "defaultTitle": "Winterartikel für $KATEGORIE",
+        "defaultMetaDescription": "Winterartikel für die kalte Jahreszeit: Jacken, Mäntel, Pullover, Schals & Mützen. Jetzt stöbern und tolle $KATEGORIE finden!",
         "defaultRobots": "index, follow",
         "categories": [
             {
@@ -95,8 +95,8 @@
                 "slug": "sporthosen",
                 "name": "Sporthosen",
                 "seo": {
-                    "title": "Sporthosen g\u00fcnstig kaufen",
-                    "metaDescription": "Alle Sporthosen im \u00dcberblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
+                    "title": "Sporthosen günstig kaufen",
+                    "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
                     "robots": "index, follow",
                     "texts": [
                         {
@@ -114,15 +114,15 @@
     },
     "brandSeo": {
         "defaultTitle": "",
-        "defaultMetaDescription": "$HERSTELLER ist Ihr Ansprechpartner f\u00fcr Winterartikel aller Art. Wir bieten Ihnen eine gro\u00dfe Auswahl an hochwertigen Produkten zu fairen Preisen.",
+        "defaultMetaDescription": "$HERSTELLER ist Ihr Ansprechpartner für Winterartikel aller Art. Wir bieten Ihnen eine große Auswahl an hochwertigen Produkten zu fairen Preisen.",
         "defaultRobots": "index, follow",
         "brands": [
             {
                 "key": "palm",
                 "name": "Palm",
                 "seo": {
-                    "title": "Produkte von Palm g\u00fcnstig kaufen",
-                    "metaDescription": "Alle Produkte von Palm im \u00dcberblick. Produkte und Testsieger. Der Hersteller f\u00fcr Outdoor Produkte.",
+                    "title": "Produkte von Palm günstig kaufen",
+                    "metaDescription": "Alle Produkte von Palm im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
                     "robots": "index, follow"
                 }
             }
