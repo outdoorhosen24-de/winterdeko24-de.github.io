@@ -51,12 +51,15 @@
             "title": "Winterartikel: Die besten Shops für deine Suche",
             "metaDescription": "Im Shop findest du alles, was du für einen perfekten Winter brauchst! Winterartikel zu günstigen Preisen.",
             "robots": "index, follow",
-            "texts": [
-                {
-                    "title": "Winterartikel: Kleidung, Schuhe und Accessoires für kalte Tage",
-                    "text": "Die meisten Menschen lieben den Winter, weil er so viele tolle Dinge mit sich bringt. Es gibt so viele verschiedene Arten von Winterartikeln, die man kaufen kann, um sich warm zu halten und den Winter zu genießen. Zum Beispiel gibt es Mützen, Schals, Handschuhe, Jacken, Hosen und Stiefel. All diese Kleidungsstücke sind sehr nützlich, wenn man im Winter draußen ist. Sie helfen dabei, die Kälte abzuwehren und die Körperwärme zu erhalten.\n\nEine weitere großartige Sache über Winterartikel ist, dass es so viele verschiedene Arten und Stile gibt. Man kann sich für einen sportlichen oder eleganten Look entscheiden. Es gibt auch viele verschiedene Farben und Muster, aus denen man wählen kann. So kann man seinen eigenen persönlichen Stil finden und den Winter in vollen Zügen genießen.\n\n Winterartikel sind auch eine großartige Geschenkidee. Viele Menschen lieben es, im Winter Geschenke zu bekommen, die sie bei ihren Aktivitäten draußen warm halten. Es gibt so viele verschiedene Arten von Winterartikeln, dass es für jeden etwas gibt. So kann man seinen Freunden und Familie eine große Freude bereiten und ihnen zeigen, dass man an sie denkt.\n\n Winterartikel sind eine großartige Möglichkeit, sich selbst oder anderen eine Freude zu bereiten. Es gibt so viele verschiedene Arten und Stile, dass man sich sicher ist, dass"
-                }
-            ]
+            "seotext": {
+                "published": false,
+                "content": [
+                    {
+                        "title": "Winterartikel: Kleidung, Schuhe und Accessoires für kalte Tage",
+                        "text": "Die meisten Menschen lieben den Winter, weil er so viele tolle Dinge mit sich bringt. Es gibt so viele verschiedene Arten von Winterartikeln, die man kaufen kann, um sich warm zu halten und den Winter zu genießen. Zum Beispiel gibt es Mützen, Schals, Handschuhe, Jacken, Hosen und Stiefel. All diese Kleidungsstücke sind sehr nützlich, wenn man im Winter draußen ist. Sie helfen dabei, die Kälte abzuwehren und die Körperwärme zu erhalten.\n\nEine weitere großartige Sache über Winterartikel ist, dass es so viele verschiedene Arten und Stile gibt. Man kann sich für einen sportlichen oder eleganten Look entscheiden. Es gibt auch viele verschiedene Farben und Muster, aus denen man wählen kann. So kann man seinen eigenen persönlichen Stil finden und den Winter in vollen Zügen genießen.\n\n Winterartikel sind auch eine großartige Geschenkidee. Viele Menschen lieben es, im Winter Geschenke zu bekommen, die sie bei ihren Aktivitäten draußen warm halten. Es gibt so viele verschiedene Arten von Winterartikeln, dass es für jeden etwas gibt. So kann man seinen Freunden und Familie eine große Freude bereiten und ihnen zeigen, dass man an sie denkt.\n\n Winterartikel sind eine großartige Möglichkeit, sich selbst oder anderen eine Freude zu bereiten. Es gibt so viele verschiedene Arten und Stile, dass man sich sicher ist, dass"
+                    }
+                ]
+            }
         },
         "shop": {
             "title": "Winterartikel-Shop",
