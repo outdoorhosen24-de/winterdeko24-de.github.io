@@ -1,12 +1,12 @@
 {
-    "configIsReady": false,
+    "configIsReady": true,
     "domain": "winterdeko24.de",
     "hostname": "https://www.winterdeko24.de/",
     "email": "winterdeko24.de@surrealnetworks.io",
     "organization": "winterdeko24.de",
     "logoText": "Winterdeko24.de",
     "title": "Winterartikel",
-    "subline": "Der Online Shop für Winterartikel",
+    "subline": "Mit Spaß und Sicherheit durch den Winter",
     "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
     "imageFolder": "/assets/images/images/",
     "productUrl": "/produkt/",
@@ -46,10 +46,10 @@
     "seo": {
         "htmlLang": "de",
         "mainKeyword": "Winterartikel",
-        "featureText": "In unserem Shop finden Sie alles, was Sie für einen perfekten Winter brauchen! Von Mützen und Schals über Handschuhe und Stiefel bis hin zu Jacken und Hosen – wir haben alles, was Sie für eine tolle Winterzeit benötigen.",
+        "featureText": "Willkommen unserem Shop! Wenn Sie sich auf den nächsten Winter vorbereiten möchten, sind Sie bei uns genau richtig, denn: Sicherheit und Spaß stehen bei uns an erster Stelle! Daher finden Sie hier neben Schneeschieber und Streumittel auch eine Vielzahl verschiedener Schlitten: ob klassische Holzschlitten, moderne Lenkschlitten oder einfach Tellerschlitten - hier ist für jeden etwas dabei!",
         "index": {
-            "title": "Winterartikel: Die besten Shops für deine Suche",
-            "metaDescription": "Im Shop findest du alles, was du für einen perfekten Winter brauchst! Winterartikel zu günstigen Preisen.",
+            "title": "Winterartikel: Vorbereitet für die kalte Jahreszeit",
+            "metaDescription": "Finden Sie hier alles, was Sie für einen perfekten Winter brauchen! • Schlitten aller Art • Schneeschieber • Streumittel | Günstig bestellen auf winterdeko24.de",
             "robots": "index, follow",
             "seotext": {
                 "published": false,
@@ -62,19 +62,19 @@
             }
         },
         "shop": {
-            "title": "Winterartikel-Shop",
-            "metaDescription": "Im Shop findest du alles, was du für einen perfekten Winter brauchst!",
+            "title": "Der Shop für Winterartikel | winterdeko24.de",
+            "metaDescription": "Mit Sicherheit und Spaß durch die kalte Jahreszeit! Wie bieten Streumittel | Schneeschieber | Schlitten aller Art | Einfach per Mausklick bestellen!",
             "robots": "index, follow"
         },
         "hersteller": {
-            "title": "Winterartikel-Hersteller",
-            "metaDescription": "Hersteller von Winterartikeln. Wir bieten eine große Auswahl an hochwertigen Winterprodukten für jeden Bedarf.",
+            "title": "Winterartikel | Unsere besten Hersteller",
+            "metaDescription": "Entdecken Sie unsere Markenanbieter Gardena • Snowmaster • Sonneck • Ress • KHW • Wolf Garten • Johann Offner uvm. | Hochwertige Qualität zu fairen Preisen!",
             "robots": "index, follow"
         }
     },
     "productSeo": {
-        "defaultTitle": "Winterartikel: $PRODUKT für kalte Tage",
-        "defaultMetaDescription": "$PRODUKT von $HERSTELLER ist ein $KATEGORIE für den Winter.",
+        "defaultTitle": "$PRODUKT: für die kalten Wintertage",
+        "defaultMetaDescription": "$PRODUKT von $HERSTELLER - Entdecken Sie auch weitere Winterartikel in der Kategorie $KATEGORIE. | Seien Sie vorbereitet!",
         "defaultRobots": "index, follow",
         "products": [
             {
@@ -89,8 +89,8 @@
         ]
     },
     "categorySeo": {
-        "defaultTitle": "Winterartikel für $KATEGORIE",
-        "defaultMetaDescription": "Winterartikel für die kalte Jahreszeit: Jacken, Mäntel, Pullover, Schals & Mützen. Jetzt stöbern und tolle $KATEGORIE finden!",
+        "defaultTitle": "$KATEGORIE kaufen auf winterdeko24.de",
+        "defaultMetaDescription": "Winterartikel für die kalte Jahreszeit: Jetzt entdecken in unserer Kategorie $KATEGORIE und tolle Angebote sichern. Schnelle Lieferung und günstige Preise.",
         "defaultRobots": "index, follow",
         "categories": [
             {
@@ -116,8 +116,8 @@
         ]
     },
     "brandSeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "$HERSTELLER ist Ihr Ansprechpartner für Winterartikel aller Art. Wir bieten Ihnen eine große Auswahl an hochwertigen Produkten zu fairen Preisen.",
+        "defaultTitle": "$HERSTELLER | die besten Winterartikel",
+        "defaultMetaDescription": "$HERSTELLER ist Ihre Wahl für Winterartikel aller Art. Wir bieten Ihnen eine große Auswahl an hochwertigen Produkten von $HERSTELLER zu fairen Preisen.",
         "defaultRobots": "index, follow",
         "brands": [
             {
