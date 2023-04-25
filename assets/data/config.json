@@ -1,176 +1,179 @@
 {
-    "configIsReady": true,
-    "domain": "winterdeko24.de",
-    "hostname": "https://www.winterdeko24.de/",
-    "email": "winterdeko24.de@surrealnetworks.io",
-    "organization": "winterdeko24.de",
-    "logoText": "Winterdeko24.de",
-    "title": "Winterartikel",
-    "subline": "Mit Spaß und Sicherheit durch den Winter",
-    "companyAddress": "DRW Group GmbH, Nachbars Wiesenweg 55, 38820 Halberstadt, Germany",
-    "imageFolder": "/assets/images/images/",
-    "productUrl": "/produkt/",
-    "kategorieUrl": "/kategorie/",
-    "numberOfProductsOnStartpage": 18,
-    "numberMaximumProductsPerCategory": 100,
-    "numberOfRelevantProduct": 12,
-    "popularProducts": [
-        "7368269",
-        "1370808",
-        "8720534",
-        "7368251",
-        "7368269",
-        "7368285"
-    ],
-    "winnerProducts": [
-        "1224500",
-        "1224609",
-        "7368244"
-    ],
-    "featuredCategories": [
-        "Schneeschieber",
-        "Schlitten & Zubehör",
-        "Schneeschieber",
-        "Schneeschieber",
-        "Schlitten & Zubehör",
-        "Schlitten & Zubehör"
-    ],
-    "socialMediaAccounts": [],
-    "imageQuality": 90,
-    "checklist": [
-        "Material",
-        "Komfort",
-        "Funktion",
-        "Haltbarkeit"
-    ],
-    "seo": {
-        "htmlLang": "de",
-        "mainKeyword": "Winterartikel",
-        "featureText": "Willkommen unserem Shop! Wenn Sie sich auf den nächsten Winter vorbereiten möchten, sind Sie bei uns genau richtig, denn: Sicherheit und Spaß stehen bei uns an erster Stelle! Daher finden Sie hier neben Schneeschieber und Streumittel auch eine Vielzahl verschiedener Schlitten: ob klassische Holzschlitten, moderne Lenkschlitten oder einfach Tellerschlitten - hier ist für jeden etwas dabei!",
-        "index": {
-            "title": "Winterartikel: Vorbereitet für die kalte Jahreszeit",
-            "metaDescription": "Finden Sie hier alles, was Sie für einen perfekten Winter brauchen! • Schlitten aller Art • Schneeschieber • Streumittel | Günstig bestellen auf winterdeko24.de",
-            "robots": "index, follow",
-            "seotext": {
-                "published": true,
-                "content": [
-                    {
-                        "title": "Willkommen bei Winterdeko24 - Ihrem Online-Shop für Winterartikel",
-                        "text": "Herzlich willkommen bei Winterdeko24, Ihrem Online-Shop für hochwertige Winterartikel. Wir bieten Ihnen eine große Auswahl an Schneeschiebern, Schlitten und Zubehör sowie Winterstreumittel, um Ihren Winter so angenehm wie möglich zu gestalten. Unsere Produkte werden sorgfältig ausgewählt und sind für ihre Langlebigkeit und Zuverlässigkeit bekannt. Shoppen Sie jetzt und bereiten Sie sich optimal auf die Winterzeit vor. Bei Fragen steht Ihnen unser freundlicher Kundenservice gerne zur Verfügung."
-                    },
-                    {
-                        "title": "Schneeschieber",
-                        "text": "Der Winter ist da und mit ihm kommen die winterlichen Herausforderungen. Eine davon ist das Entfernen des Schnees von Gehwegen und Einfahrten. Mit einem <a href=\"/kategorie/schneeschieber/\" title=\"Schneeschieber\">Schneeschieber</a> von Winterdeko24 kann diese Aufgabe einfach und bequem erledigt werden. Wir bieten eine große Auswahl an Schneeschiebern in unterschiedlichen Größen und Ausführungen, um jeden Bedarf abzudecken. Stöbern Sie jetzt durch unsere Kategorie Schneeschieber und finden Sie den perfekten Schneeentferner für Ihre Bedürfnisse."
-                    },
-                    {
-                        "title": "Schlitten & Zubehör",
-                        "text": "Der Winter ist die perfekte Zeit, um draußen Spaß mit der Familie und Freunden zu haben. Eine großartige Möglichkeit, dies zu tun, ist das Rodeln auf einem Schlitten. Bei Winterdeko24 finden Sie eine große Auswahl an Schlitten in verschiedenen Größen und Designs, die für Kinder und Erwachsene geeignet sind. Wir bieten auch eine Auswahl an Zubehör, darunter Rodelbremse, Rodelgurt und Transporttaschen, um Ihr Rodelerlebnis noch angenehmer zu gestalten. Stöbern Sie jetzt durch unsere Kategorie <a href=\"/kategorie/schlitten-zubehoer/\" title=\"Schlitten & Zubehör\">Schlitten & Zubehör</a> und machen Sie Ihren Winter noch spaßiger."
-                    },
-                    {
-                        "title": "Winterstreumittel",
-                        "text": "Während des Winters kann es schwierig sein, Gehwege und Einfahrten frei von Eis und Schnee zu halten. Winterdeko24 bietet eine große Auswahl an <a href=\"/kategorie/winterstreumittel/\" title=\"Winterstreumittel\">Winterstreumittel</a>n, um diese Aufgabe einfacher und sicherer zu machen. Von natürlichen Streumitteln wie Salz und Sand bis hin zu chemischen Streumitteln, die eine schnellere Wirkung haben, haben wir alles, was Sie benötigen. Stöbern Sie jetzt durch unsere Kategorie Winterstreumittel und finden Sie das perfekte Produkt, um Ihre Gehwege sicher zu halten."
-                    }
-                ]
-            }
-        },
-        "shop": {
-            "title": "Der Shop für Winterartikel | winterdeko24.de",
-            "metaDescription": "Mit Sicherheit und Spaß durch die kalte Jahreszeit! Wie bieten Streumittel | Schneeschieber | Schlitten aller Art | Einfach per Mausklick bestellen!",
-            "robots": "index, follow"
-        },
-        "hersteller": {
-            "title": "Winterartikel | Unsere besten Hersteller",
-            "metaDescription": "Entdecken Sie unsere Markenanbieter Gardena • Snowmaster • Sonneck • Ress • KHW • Wolf Garten • Johann Offner uvm. | Hochwertige Qualität zu fairen Preisen!",
-            "robots": "index, follow"
-        }
-    },
-    "productSeo": {
-        "defaultTitle": "$PRODUKT: für die kalten Wintertage",
-        "defaultMetaDescription": "$PRODUKT von $HERSTELLER - Entdecken Sie auch weitere Winterartikel in der Kategorie $KATEGORIE. | Seien Sie vorbereitet!",
-        "defaultRobots": "index, follow",
-        "products": [
-            {
-                "sku": "5637909794",
-                "name": "Ortovox PALA PANTS Kletterhose",
-                "seo": {
-                    "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
-                    "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
-                    "robots": "index, follow"
-                }
-            }
+  "configIsReady": true,
+  "domain": "winterdeko24.de",
+  "hostname": "https://www.winterdeko24.de/",
+  "email": "winterdeko24.de@surrealnetworks.io",
+  "organization": "winterdeko24.de",
+  "logoText": "Winterdeko24.de",
+  "title": "Winterartikel",
+  "subline": "Mit Spa\u00df und Sicherheit durch den Winter",
+  "companyAddress": "DRW Group GmbH, Nachbars Wiesenweg 55, 38820 Halberstadt, Germany",
+  "imageFolder": "/assets/images/images/",
+  "productUrl": "/produkt/",
+  "kategorieUrl": "/kategorie/",
+  "numberOfProductsOnStartpage": 18,
+  "numberMaximumProductsPerCategory": 100,
+  "numberOfRelevantProduct": 12,
+  "popularProducts": [
+    "7368269",
+    "1370808",
+    "8720534",
+    "7368251",
+    "7368269",
+    "7368285"
+  ],
+  "winnerProducts": [
+    "1224500",
+    "1224609",
+    "7368244"
+  ],
+  "featuredCategories": [
+    "Schneeschieber",
+    "Schlitten & Zubeh\u00f6r",
+    "Schneeschieber",
+    "Schneeschieber",
+    "Schlitten & Zubeh\u00f6r",
+    "Schlitten & Zubeh\u00f6r"
+  ],
+  "socialMediaAccounts": [],
+  "imageQuality": 90,
+  "checklist": [
+    "Material",
+    "Komfort",
+    "Funktion",
+    "Haltbarkeit"
+  ],
+  "seo": {
+    "htmlLang": "de",
+    "mainKeyword": "Winterartikel",
+    "featureText": "Willkommen unserem Shop! Wenn Sie sich auf den n\u00e4chsten Winter vorbereiten m\u00f6chten, sind Sie bei uns genau richtig, denn: Sicherheit und Spa\u00df stehen bei uns an erster Stelle! Daher finden Sie hier neben Schneeschieber und Streumittel auch eine Vielzahl verschiedener Schlitten: ob klassische Holzschlitten, moderne Lenkschlitten oder einfach Tellerschlitten - hier ist f\u00fcr jeden etwas dabei!",
+    "index": {
+      "title": "Winterartikel: Vorbereitet f\u00fcr die kalte Jahreszeit",
+      "metaDescription": "Finden Sie hier alles, was Sie f\u00fcr einen perfekten Winter brauchen! \u2022 Schlitten aller Art \u2022 Schneeschieber \u2022 Streumittel | G\u00fcnstig bestellen auf winterdeko24.de",
+      "robots": "index, follow",
+      "seotext": {
+        "published": true,
+        "content": [
+          {
+            "title": "Willkommen bei Winterdeko24 - Ihrem Online-Shop f\u00fcr Winterartikel",
+            "text": "Herzlich willkommen bei Winterdeko24, Ihrem Online-Shop f\u00fcr hochwertige Winterartikel. Wir bieten Ihnen eine gro\u00dfe Auswahl an Schneeschiebern, Schlitten und Zubeh\u00f6r sowie Winterstreumittel, um Ihren Winter so angenehm wie m\u00f6glich zu gestalten. Unsere Produkte werden sorgf\u00e4ltig ausgew\u00e4hlt und sind f\u00fcr ihre Langlebigkeit und Zuverl\u00e4ssigkeit bekannt. Shoppen Sie jetzt und bereiten Sie sich optimal auf die Winterzeit vor. Bei Fragen steht Ihnen unser freundlicher Kundenservice gerne zur Verf\u00fcgung."
+          },
+          {
+            "title": "Schneeschieber",
+            "text": "Der Winter ist da und mit ihm kommen die winterlichen Herausforderungen. Eine davon ist das Entfernen des Schnees von Gehwegen und Einfahrten. Mit einem <a href=\"/kategorie/schneeschieber/\" title=\"Schneeschieber\">Schneeschieber</a> von Winterdeko24 kann diese Aufgabe einfach und bequem erledigt werden. Wir bieten eine gro\u00dfe Auswahl an Schneeschiebern in unterschiedlichen Gr\u00f6\u00dfen und Ausf\u00fchrungen, um jeden Bedarf abzudecken. St\u00f6bern Sie jetzt durch unsere Kategorie Schneeschieber und finden Sie den perfekten Schneeentferner f\u00fcr Ihre Bed\u00fcrfnisse."
+          },
+          {
+            "title": "Schlitten & Zubeh\u00f6r",
+            "text": "Der Winter ist die perfekte Zeit, um drau\u00dfen Spa\u00df mit der Familie und Freunden zu haben. Eine gro\u00dfartige M\u00f6glichkeit, dies zu tun, ist das Rodeln auf einem Schlitten. Bei Winterdeko24 finden Sie eine gro\u00dfe Auswahl an Schlitten in verschiedenen Gr\u00f6\u00dfen und Designs, die f\u00fcr Kinder und Erwachsene geeignet sind. Wir bieten auch eine Auswahl an Zubeh\u00f6r, darunter Rodelbremse, Rodelgurt und Transporttaschen, um Ihr Rodelerlebnis noch angenehmer zu gestalten. St\u00f6bern Sie jetzt durch unsere Kategorie <a href=\"/kategorie/schlitten-zubehoer/\" title=\"Schlitten & Zubeh\u00f6r\">Schlitten & Zubeh\u00f6r</a> und machen Sie Ihren Winter noch spa\u00dfiger."
+          },
+          {
+            "title": "Winterstreumittel",
+            "text": "W\u00e4hrend des Winters kann es schwierig sein, Gehwege und Einfahrten frei von Eis und Schnee zu halten. Winterdeko24 bietet eine gro\u00dfe Auswahl an <a href=\"/kategorie/winterstreumittel/\" title=\"Winterstreumittel\">Winterstreumittel</a>n, um diese Aufgabe einfacher und sicherer zu machen. Von nat\u00fcrlichen Streumitteln wie Salz und Sand bis hin zu chemischen Streumitteln, die eine schnellere Wirkung haben, haben wir alles, was Sie ben\u00f6tigen. St\u00f6bern Sie jetzt durch unsere Kategorie Winterstreumittel und finden Sie das perfekte Produkt, um Ihre Gehwege sicher zu halten."
+          }
         ]
+      }
     },
-    "categorySeo": {
-        "defaultTitle": "$KATEGORIE kaufen auf winterdeko24.de",
-        "defaultMetaDescription": "Winterartikel für die kalte Jahreszeit: Jetzt entdecken in unserer Kategorie $KATEGORIE und tolle Angebote sichern. Schnelle Lieferung und günstige Preise.",
-        "defaultRobots": "index, follow",
-        "categories": [
-            {
-                "key": "sporthosen",
-                "slug": "sporthosen",
-                "name": "Sporthosen",
-                "seo": {
-                    "title": "Sporthosen günstig kaufen",
-                    "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
-                    "robots": "index, follow",
-                    "texts": [
-                        {
-                            "title": "Title of a SEO Text for sporthosen",
-                            "text": "Text of a SEO Text for sporthosen"
-                        },
-                        {
-                            "title": "New title for sporthosen",
-                            "text": "new text for sporthosen"
-                        }
-                    ]
-                }
-            }
-        ]
+    "shop": {
+      "title": "Der Shop f\u00fcr Winterartikel | winterdeko24.de",
+      "metaDescription": "Mit Sicherheit und Spa\u00df durch die kalte Jahreszeit! Wie bieten Streumittel | Schneeschieber | Schlitten aller Art | Einfach per Mausklick bestellen!",
+      "robots": "index, follow"
     },
-    "brandSeo": {
-        "defaultTitle": "$HERSTELLER | die besten Winterartikel",
-        "defaultMetaDescription": "$HERSTELLER ist Ihre Wahl für Winterartikel aller Art. Wir bieten Ihnen eine große Auswahl an hochwertigen Produkten von $HERSTELLER zu fairen Preisen.",
-        "defaultRobots": "index, follow",
-        "brands": [
-            {
-                "key": "palm",
-                "name": "Palm",
-                "seo": {
-                    "title": "Produkte von Palm günstig kaufen",
-                    "metaDescription": "Alle Produkte von Palm im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
-                    "robots": "index, follow"
-                }
-            }
-        ]
-    },
-    "navigationLinks": [
-        {
-            "title": "Start",
-            "linkTo": "/",
-            "linkTitle": "Winterartikel",
-            "publish": true
-        },
-        {
-            "title": "Shop",
-            "linkTo": "/shop/",
-            "linkTitle": "Winterartikel Shop",
-            "publish": true
-        },
-        {
-            "title": "Marken",
-            "linkTo": "/marken/",
-            "linkTitle": "Winterartikel Marken",
-            "publish": true
-        },
-        {
-            "title": "Kontakt",
-            "linkTo": "/kontakt/",
-            "linkTitle": "Kontakt",
-            "publish": false
-        }
-    ],
-    "ai": {
-        "enabled": true,
-        "engine": 1
+    "hersteller": {
+      "title": "Winterartikel | Unsere besten Hersteller",
+      "metaDescription": "Entdecken Sie unsere Markenanbieter Gardena \u2022 Snowmaster \u2022 Sonneck \u2022 Ress \u2022 KHW \u2022 Wolf Garten \u2022 Johann Offner uvm. | Hochwertige Qualit\u00e4t zu fairen Preisen!",
+      "robots": "index, follow"
     }
+  },
+  "productSeo": {
+    "defaultTitle": "$PRODUKT: f\u00fcr die kalten Wintertage",
+    "defaultMetaDescription": "$PRODUKT von $HERSTELLER - Entdecken Sie auch weitere Winterartikel in der Kategorie $KATEGORIE. | Seien Sie vorbereitet!",
+    "defaultRobots": "index, follow",
+    "products": [
+      {
+        "sku": "5637909794",
+        "name": "Ortovox PALA PANTS Kletterhose",
+        "seo": {
+          "title": "Ortovox PALA PANTS Kletterhose g\u00fcnstig kaufen auf $DOMAIN",
+          "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox g\u00fcnstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
+          "robots": "index, follow"
+        }
+      }
+    ]
+  },
+  "categorySeo": {
+    "defaultTitle": "$KATEGORIE kaufen auf winterdeko24.de",
+    "defaultMetaDescription": "Winterartikel f\u00fcr die kalte Jahreszeit: Jetzt entdecken in unserer Kategorie $KATEGORIE und tolle Angebote sichern. Schnelle Lieferung und g\u00fcnstige Preise.",
+    "defaultRobots": "index, follow",
+    "categories": [
+      {
+        "key": "sporthosen",
+        "slug": "sporthosen",
+        "name": "Sporthosen",
+        "seo": {
+          "title": "Sporthosen g\u00fcnstig kaufen",
+          "metaDescription": "Alle Sporthosen im \u00dcberblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
+          "robots": "index, follow",
+          "texts": [
+            {
+              "title": "Title of a SEO Text for sporthosen",
+              "text": "Text of a SEO Text for sporthosen"
+            },
+            {
+              "title": "New title for sporthosen",
+              "text": "new text for sporthosen"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "brandSeo": {
+    "defaultTitle": "$HERSTELLER | die besten Winterartikel",
+    "defaultMetaDescription": "$HERSTELLER ist Ihre Wahl f\u00fcr Winterartikel aller Art. Wir bieten Ihnen eine gro\u00dfe Auswahl an hochwertigen Produkten von $HERSTELLER zu fairen Preisen.",
+    "defaultRobots": "index, follow",
+    "brands": [
+      {
+        "key": "palm",
+        "name": "Palm",
+        "seo": {
+          "title": "Produkte von Palm g\u00fcnstig kaufen",
+          "metaDescription": "Alle Produkte von Palm im \u00dcberblick. Produkte und Testsieger. Der Hersteller f\u00fcr Outdoor Produkte.",
+          "robots": "index, follow"
+        }
+      }
+    ]
+  },
+  "navigationLinks": [
+    {
+      "title": "Start",
+      "linkTo": "/",
+      "linkTitle": "Winterartikel",
+      "publish": true
+    },
+    {
+      "title": "Shop",
+      "linkTo": "/shop/",
+      "linkTitle": "Winterartikel Shop",
+      "publish": true
+    },
+    {
+      "title": "Marken",
+      "linkTo": "/marken/",
+      "linkTitle": "Winterartikel Marken",
+      "publish": true
+    },
+    {
+      "title": "Kontakt",
+      "linkTo": "/kontakt/",
+      "linkTitle": "Kontakt",
+      "publish": false
+    }
+  ],
+  "ai": {
+    "enabled": true,
+    "engine": 1
+  },
+  "affiliate": {
+    "defaultLink": "https://www.amazon.de/s?k=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer&language=de_DE&__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2HY8JX8TYKMEK&linkCode=ll2&linkId=4103e81163a8fabcb0fb5d086df92083&sprefix=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer%2Caps%2C115&tag=surrealnetwor-21&ref=as_li_ss_tl"
+  }
 }
